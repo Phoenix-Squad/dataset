@@ -10,3 +10,5 @@ Band2 (B2)       Green     0.52-0.59
 Band3 (B3)       Red       0.62-0.68
 Band4 (B4)       NIR       0.77-0.86
 Band5 (B5)       SWIR      1.55-1.70
+---------------------------------------------------------------------------------------------------
+install gdal on anaconda-> https://medium.com/@chrieke/howto-install-python-for-geospatial-applications-1dbc82433c05
